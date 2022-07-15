@@ -16,6 +16,6 @@ Using this is as easy as just making an iframe with your swf in it!
 
 ### working example
 ```html
-  <iframe width="800px" height="600px" src="https://dosemu.zombienw.com/?swf=https://cdn.dos.zone/custom/dos/doom.jsdos" frameborder="0"></iframe>
+  <iframe width="800px" height="600px" src="https://dosemu.zombienw.com/?jsdos=https://cdn.dos.zone/custom/dos/doom.jsdos" frameborder="0"></iframe>
 ```
     
